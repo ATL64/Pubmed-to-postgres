@@ -1,0 +1,4 @@
+google-cloud-storage
+nltk
+pandas
+psycopg2
